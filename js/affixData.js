@@ -12677,212 +12677,212 @@ let data = {
             ref: 484,
             code: "ZA01",
             gid: "ZZ",
-            name: "Junk A",
+            name: "Shit A",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 485,
             code: "ZB01",
             gid: "ZZ",
-            name: "Junk B",
+            name: "Shit B",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 486,
             code: "ZC01",
             gid: "ZZ",
-            name: "Junk C",
+            name: "Shit C",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 487,
             code: "ZD01",
             gid: "ZZ",
-            name: "Junk D",
+            name: "Shit D",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 488,
             code: "ZE01",
             gid: "ZZ",
-            name: "Junk E",
+            name: "Shit E",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 489,
             code: "ZF01",
             gid: "ZZ",
-            name: "Junk F",
+            name: "Shit F",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 490,
             code: "ZG01",
             gid: "ZZ",
-            name: "Junk G",
+            name: "Shit G",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 491,
             code: "ZH01",
             gid: "ZZ",
-            name: "Junk H",
+            name: "Shit H",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 492,
             code: "ZI01",
             gid: "ZZ",
-            name: "Junk I",
+            name: "Shit I",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "100% affix junk"
+            effect: "100% affix shit"
         },
         {
             ref: 519,
             code: "LA99",
             gid: "L1",
-            name: "S1:Junk",
+            name: "S1:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S1 junk.",
+            effect: "Generic S1 shit.",
             noEx: true
         },
         {
             ref: 520,
             code: "LB99",
             gid: "L2",
-            name: "S2:Junk",
+            name: "S2:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S2 junk.",
+            effect: "Generic S2 shit.",
             noEx: true
         },
         {
             ref: 521,
             code: "LC99",
             gid: "L3",
-            name: "S3:Junk",
+            name: "S3:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S3 junk.",
+            effect: "Generic S3 shit.",
             noEx: true
         },
         {
             ref: 594,
             code: "LD99",
             gid: "L4",
-            name: "S4:Junk",
+            name: "S4:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S4 junk.",
+            effect: "Generic S4 shit.",
             noEx: true
         },
         {
             ref: 608,
             code: "LE99",
             gid: "L4",
-            name: "S5:Junk",
+            name: "S5:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S5 junk.",
+            effect: "Generic S5 shit.",
             noEx: true
         },
         {
             ref: 609,
             code: "LF99",
             gid: "L4",
-            name: "S6:Junk",
+            name: "S6:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S6 junk.",
+            effect: "Generic S6 shit.",
             noEx: true
         },
         {
             ref: 610,
             code: "LG99",
             gid: "L4",
-            name: "S7:Junk",
+            name: "S7:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S7 junk.",
+            effect: "Generic S7 shit.",
             noEx: true
         },
         {
             ref: 611,
             code: "LH99",
             gid: "L4",
-            name: "S8:Junk",
+            name: "S8:Shit",
             extend: [
                 100,
                 100,
                 100
             ],
-            effect: "Generic S8 junk.",
+            effect: "Generic S8 shit.",
             noEx: true
         }
     ],
