@@ -353,11 +353,11 @@ const lang = Object.freeze({
             glen: (name) => ` (Augment Factor: ${name})`
         },
         wishListAbilityItem: {
-            en: (fodder) => `${fodder.size()}s Fodder: ${fodder.affixes.filter(a => !a.code.startsWith('Z')).length == 0 ? `Any Junk` : fodder.affixes.filter(a => !a.code.startsWith('Z'))
+            en: (fodder) => `${fodder.size()}s Fodder: ${fodder.affixes.filter(a => !a.code.startsWith('Z')).length == 0 ? `Any Shit` : fodder.affixes.filter(a => !a.code.startsWith('Z'))
                 .map(a => lang[a.code].name_en).sort().join(lang.app.wishListItemDivider.en)}`,
             jp: (fodder) => `${fodder.size()}スロット装備：${fodder.affixes.filter(a => !a.code.startsWith('Z')).length == 0 ? `ジャンク` : fodder.affixes.filter(a => !a.code.startsWith('Z'))
                 .map(a => lang[a.code].name_jp).sort().join(lang.app.wishListItemDivider.jp)}`,
-            glen: (fodder) => `${fodder.size()}s Fodder: ${fodder.affixes.filter(a => !a.code.startsWith('Z')).length == 0 ? `Any Junk` : fodder.affixes.filter(a => !a.code.startsWith('Z'))
+            glen: (fodder) => `${fodder.size()}s Fodder: ${fodder.affixes.filter(a => !a.code.startsWith('Z')).length == 0 ? `Any Shit` : fodder.affixes.filter(a => !a.code.startsWith('Z'))
                 .map(a => lang[a.code].name_en).sort().join(lang.app.wishListItemDivider.en)}`
         },
         wishListAbilityDescription: {
@@ -6969,137 +6969,137 @@ const lang = Object.freeze({
         effect_glen: "MEL Def(+35),RNG Def(+35),TEC Def(+35),HP(+75),PP(+3)"
     },
     "ZA01": {
-        name_en: "Junk A",
+        name_en: "Shit A",
         name_jp: "ジャンクA",
-        name_glen: "Junk A",
-        effect_en: "100% affix junk",
+        name_glen: "Shit A",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZB01": {
-        name_en: "Junk B",
+        name_en: "Shit B",
         name_jp: "ジャンクB",
-        name_glen: "Junk B",
-        effect_en: "100% affix junk",
+        name_glen: "Shit B",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZC01": {
-        name_en: "Junk C",
+        name_en: "Shit C",
         name_jp: "ジャンクC",
-        name_glen: "Junk C",
-        effect_en: "100% affix junk",
+        name_glen: "Shit C",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZD01": {
-        name_en: "Junk D",
+        name_en: "Shit D",
         name_jp: "ジャンクD",
-        name_glen: "Junk D",
-        effect_en: "100% affix junk",
+        name_glen: "Shit D",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZE01": {
-        name_en: "Junk E",
+        name_en: "Shit E",
         name_jp: "ジャンクE",
-        name_glen: "Junk E",
-        effect_en: "100% affix junk",
+        name_glen: "Shit E",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZF01": {
-        name_en: "Junk F",
+        name_en: "Shit F",
         name_jp: "ジャンクF",
-        name_glen: "Junk F",
-        effect_en: "100% affix junk",
+        name_glen: "Shit F",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZG01": {
-        name_en: "Junk G",
+        name_en: "Shit G",
         name_jp: "ジャンクG",
-        name_glen: "Junk G",
-        effect_en: "100% affix junk",
+        name_glen: "Shit G",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZH01": {
-        name_en: "Junk H",
+        name_en: "Shit H",
         name_jp: "ジャンクH",
-        name_glen: "Junk H",
-        effect_en: "100% affix junk",
+        name_glen: "Shit H",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "ZI01": {
-        name_en: "Junk I",
+        name_en: "Shit I",
         name_jp: "ジャンクI",
-        name_glen: "Junk I",
-        effect_en: "100% affix junk",
+        name_glen: "Shit I",
+        effect_en: "100% affix shit",
         effect_jp: "100％合成成功率のジャンク。",
-        effect_glen: "100% affix junk"
+        effect_glen: "100% affix shit"
     },
     "LA99": {
-        name_en: "S1:Junk",
+        name_en: "S1:Shit",
         name_jp: "S1:ジャンク",
-        name_glen: "S1:Junk",
+        name_glen: "S1:Shit",
         effect_en: "Represents any S1 ability.",
         effect_jp: "任意のS1能力を表します。",
         effect_glen: "Represents any S1 ability."
     },
     "LB99": {
-        name_en: "S2:Junk",
+        name_en: "S2:Shit",
         name_jp: "S2:ジャンク",
-        name_glen: "S2:Junk",
+        name_glen: "S2:Shit",
         effect_en: "Represents any S2 ability.",
         effect_jp: "任意のS2能力を表します。",
         effect_glen: "Represents any S2 ability."
     },
     "LC99": {
-        name_en: "S3:Junk",
+        name_en: "S3:Shit",
         name_jp: "S3:ジャンク",
-        name_glen: "S3:Junk",
+        name_glen: "S3:Shit",
         effect_en: "Represents any S3 ability.",
         effect_jp: "任意のS3能力を表します。",
         effect_glen: "Represents any S3 ability."
     },
     "LD99": {
-        name_en: "S4:Junk",
+        name_en: "S4:Shit",
         name_jp: "S4:ジャンク",
-        name_glen: "S4:Junk",
+        name_glen: "S4:Shit",
         effect_en: "Represents any S4 ability.",
         effect_jp: "任意のS4能力を表します。",
         effect_glen: "Represents any S4 ability."
     },
     "LE99": {
-        name_en: "S5:Junk",
+        name_en: "S5:Shit",
         name_jp: "S5:ジャンク",
-        name_glen: "S5:Junk",
+        name_glen: "S5:Shit",
         effect_en: "Represents any S5 ability.",
         effect_jp: "任意のS5能力を表します。",
         effect_glen: "Represents any S5 ability."
     },
     "LF99": {
-        name_en: "S6:Junk",
+        name_en: "S6:Shit",
         name_jp: "S6:ジャンク",
-        name_glen: "S6:Junk",
+        name_glen: "S6:Shit",
         effect_en: "Represents any S6 ability.",
         effect_jp: "任意のS6能力を表します。",
         effect_glen: "Represents any S6 ability."
     },
     "LG99": {
-        name_en: "S7:Junk",
+        name_en: "S7:Shit",
         name_jp: "S7:ジャンク",
-        name_glen: "S7:Junk",
+        name_glen: "S7:Shit",
         effect_en: "Represents any S7 ability.",
         effect_jp: "任意のS7能力を表します。",
         effect_glen: "Represents any S7 ability."
     },
     "LH99": {
-        name_en: "S8:Junk",
+        name_en: "S8:Shit",
         name_jp: "S8:ジャンク",
-        name_glen: "S8:Junk",
+        name_glen: "S8:Shit",
         effect_en: "Represents any S8 ability.",
         effect_jp: "任意のS8能力を表します。",
         effect_glen: "Represents any S8 ability."
