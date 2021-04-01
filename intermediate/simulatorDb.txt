@@ -7595,83 +7595,83 @@
     {
       "code": "ZA01",
       "gid": "ZZ",
-      "name": "Junk A",
+      "name": "Shit A",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZB01",
       "gid": "ZZ",
-      "name": "Junk B",
+      "name": "Shit B",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZC01",
       "gid": "ZZ",
-      "name": "Junk C",
+      "name": "Shit C",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZD01",
       "gid": "ZZ",
-      "name": "Junk D",
+      "name": "Shit D",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZE01",
       "gid": "ZZ",
-      "name": "Junk E",
+      "name": "Shit E",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZF01",
       "gid": "ZZ",
-      "name": "Junk F",
+      "name": "Shit F",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZG01",
       "gid": "ZZ",
-      "name": "Junk G",
+      "name": "Shit G",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZH01",
       "gid": "ZZ",
-      "name": "Junk H",
+      "name": "Shit H",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     },
     {
       "code": "ZI01",
       "gid": "ZZ",
-      "name": "Junk I",
+      "name": "Shit I",
       "extend": [
         100
       ],
-      "effect": "100% affix junk"
+      "effect": "100% affix shit"
     }
   ]
 }
